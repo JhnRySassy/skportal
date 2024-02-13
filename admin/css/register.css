@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.left-info
+{
+    width: 900px;
+}
+.username-group .m-init {
+    width: 200px;
+    margin-left: 10px;
+}
+
+.username-group .suffix {
+    width: 200px;
+    margin-left: 10px;
+}
+.accounts {
+    width: 270px;
+}
+.reg-btn a {
+    width: 270px;
+}
+.reg-btn input {
+    width: 270px;
+}
+.close-alert {
+    cursor: pointer;
+    font-size: 15px;
+    padding-left: 10px;
+}

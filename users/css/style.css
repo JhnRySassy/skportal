@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.box-area {
+    width: 930px;
+}
+.right-box {
+    padding: 40px 30px 40px 40px;
+}
